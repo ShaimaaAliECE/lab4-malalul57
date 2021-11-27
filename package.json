@@ -1,0 +1,23 @@
+{
+    "name": "lab4-malalul57",
+    "version": "1.0.0",
+    "description": "lab4",
+    "main": "index.js",
+    "dependencies": {
+      "express": "^4.17.1"
+    },
+    "devDependencies": {},
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/ShaimaaAliECE/lab4-malalul57.git"
+    },
+    "author": "malalul57",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/ShaimaaAliECE/lab4-malalul57/issues"
+    },
+    "homepage": "https://github.com/ShaimaaAliECE/lab4-malalul57#readme"
+  }
